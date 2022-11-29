@@ -1,4 +1,5 @@
-Hi, I'm Paolo, I'm a Sofwtare Engineer and Guitarist.
+Hi, I'm Paolo! 
+I'm a Software Engineer and Guitarist.
 
 #### **GitHub Stats**
 
