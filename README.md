@@ -1,5 +1,4 @@
 Hi, I'm Paolo, I'm a Sofwtare Engineer and Guitarist.
-Currently Working as an Engineer at oak9.
 
 #### **GitHub Stats**
 
