@@ -19,7 +19,6 @@ I'm a Software Engineer and Guitarist.
 <code><img height="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"></code>
 <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png"></code>
-<code><img height="40" src="https://docmanagement.com.br/wp-content/uploads/2019/02/image115.png"></code>
 
 #### **Find me on:**
 
