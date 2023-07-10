@@ -1,5 +1,5 @@
 Hi, I'm Paolo! 
-I'm a Software Engineer and Guitarist.
+I'm a Software Engineer with over 15 years of experience.
 
 #### **GitHub Stats**
 
