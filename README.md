@@ -3,7 +3,7 @@ I'm a Software Engineer with over 15 years of experience.
 
 #### **GitHub Stats**
 
-<a href="https://github.com/Gurupreet">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloposso&theme=dracula&hide_langs_below=1" />
 </a>
 
