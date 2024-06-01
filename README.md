@@ -1,5 +1,4 @@
-Hi, I'm Paolo! 
-I'm a Software Engineer with over 15 years of experience.
+Hi, I'm Paolo! I'm a Software Engineer.
 
 #### **GitHub Stats**
 
