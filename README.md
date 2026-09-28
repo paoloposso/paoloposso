@@ -1,15 +1,5 @@
 Hi, I'm Paolo! I'm a Software Engineer.
 
-#### **GitHub Stats**
-
-<a href="https://github.com/paoloposso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoloposso&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/paoloposso">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=paoloposso&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
 [medium]: https://pvictorsys.medium.com
 [linkedin]: https://www.linkedin.com/in/paolo-posso/?locale=en_US
 
